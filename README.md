@@ -1,16 +1,16 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Wireflow
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+Alle buurtbenwoners van Amsterdam Oost
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+❔ "Als buurtbewoner van Amsterdam Oost wil ik gericht informatie kunnen zoeken over het verzorgen van een specifieke plant, zodat ik niet zelf op zoek hoef in de alfabetische plantenlijst en daarmee mijn tijd verspil".
+
+✅ Een zoekfunctie waarin een buurtbewoner van Amsterdam Oost een specifieke plantennaam kan invoeren en op basis hiervan resultaten (verzorg informatie over desbetreffende plant) krijgt. Dit scheelt de bezoeker tijd omdat deze sneller de benodigde informatie gevonden heeft.
 
 ## Wireflow
-<!-- Toon de wireflow -->
+![wireflow-schets-af](https://user-images.githubusercontent.com/112861180/205695030-3e629b11-2499-4139-b0cd-551b5a48a0fd.jpeg)
+
 
  
 
